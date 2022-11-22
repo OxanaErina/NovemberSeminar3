@@ -11,4 +11,6 @@
 
 ## Branch merging
 
+* *git merge branch_name* - сливает текущую ветку c веткой branch_name
+
 ## Conflicts
